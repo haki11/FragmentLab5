@@ -4,3 +4,4 @@
 
 Adding some text into the README file and demo branch
 
+Add a new branch called lecture-2
